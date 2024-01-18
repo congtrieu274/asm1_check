@@ -1,0 +1,17 @@
+<th scope="row">P001</th>
+<td>Tom</td>
+<td>3</td>
+<td>Cat</td>
+<td>5 kg</td>
+<td>50 cm</td>
+<td>Tabby</td>
+<td>
+  <i class="bi bi-square-fill" style="color: red"></i>
+</td>
+<td><i class="bi bi-check-circle-fill"></i></td>
+<td><i class="bi bi-check-circle-fill"></i></td>
+<td><i class="bi bi-check-circle-fill"></i></td>
+<td>01/03/2022</td>
+<td>
+  <button type="button" class="btn btn-danger">Delete</button>
+</td>
